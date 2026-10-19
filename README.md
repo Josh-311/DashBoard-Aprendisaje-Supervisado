@@ -1,5 +1,4 @@
-# DashBoard-Aprendisaje-Supervisado
-Temas de Trabajo
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
